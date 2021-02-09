@@ -1,0 +1,7 @@
+pkg update
+pkg upgrade
+install git
+pip2 install python
+pip2 install python2
+git clone 
+cd 
