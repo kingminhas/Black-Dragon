@@ -4,5 +4,5 @@ install git
 pip2 install python
 pip2 install python2
 git clone https://github.com/kingminhas/Black-Dragon.git
-cd devil
- python2 devil.py
+cd dragon
+python2 dragon.py
